@@ -1,0 +1,9 @@
+pdb_id,pKd,num_nodes,num_edges,graph_file
+2i4w,11.585026652029182,163,2618,data/processed\2i4w.pt
+5dwr,11.221848749616356,161,3132,data/processed\5dwr.pt
+4wkb,11.568636235841012,206,3766,data/processed\4wkb.pt
+1duv,11.795880017344077,195,3392,data/processed\1duv.pt
+6oxq,11.30102999566398,171,2656,data/processed\6oxq.pt
+4wr7,11.69897000433602,57,780,data/processed\4wr7.pt
+5drr,11.455931955649724,193,3820,data/processed\5drr.pt
+2xpk,11.30102999566398,69,548,data/processed\2xpk.pt
