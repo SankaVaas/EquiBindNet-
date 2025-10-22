@@ -9,10 +9,6 @@ Predicting molecular binding affinities using geometric deep learning with rotat
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-success)]()
 
-<p align="center">
-  <img src="results/training_results.png" alt="Training Results" width="800"/>
-</p>
-
 ---
 
 ## 🌟 **Highlights**
@@ -672,12 +668,6 @@ Absolutely! Load the pretrained model and continue training on your data. The ge
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/EquiBindNet/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/EquiBindNet/discussions)
 - 📧 **Email**: For collaboration or research inquiries
-
----
-
-## ⭐ **Star History**
-
-If you find this project useful, please consider giving it a star! It helps others discover this work.
 
 ---
 
