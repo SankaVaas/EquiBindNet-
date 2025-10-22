@@ -409,9 +409,8 @@ This is crucial for drug discovery where binding affinity should not depend on h
 
 ### **Training Curves**
 
-<p align="center">
-  <img src="results/training_results.png" alt="Training Results" width="800"/>
-</p>
+<img width="2233" height="1475" alt="training_results" src="https://github.com/user-attachments/assets/69909e8e-4962-457d-bd61-cc62005e006e" />
+
 
 **Left column**: Training and validation loss over epochs
 - EquiBindNet converges faster and to lower loss
